@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="A chart." style="max-height: 500px" viewBox="148.75740000000002 37.865520000000004 443.56752 328.16784" width="443.56752" height="328.16784">
+  <defs id="_ABSTRACT_RENDERER_ID_25"/>
+  <rect fill="#ffffff" stroke-width="0" stroke="none" height="450.78000000000003" width="901.5600000000001" y="0" x="0"/>
+  <g transform="matrix(1, 0, 0, 1.026316, -1, -0.575927)" style="">
+    <text style="white-space: pre;" fill="#000000" stroke-width="0" stroke="none" font-weight="bold" font-size="25" font-family="Arial" y="59.25" x="150" text-anchor="start">Expenses</text>
+    <text y="47.002" x="196.968" style="white-space: pre; fill: rgb(51, 51, 51); font-family: Arial, sans-serif; font-size: 28px;"> </text>
+  </g>
+  <g>
+    <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="129" width="207" y="86" x="544"/>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="86" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="97.9" x="563" text-anchor="start">Jul</text>
+      </g>
+      <circle fill="#ff9900" stroke-width="0" stroke="none" r="7" cy="93" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="109" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="120.9" x="563" text-anchor="start">Jun</text>
+      </g>
+      <circle fill="#109618" stroke-width="0" stroke="none" r="7" cy="116" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="132" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="143.9" x="563" text-anchor="start">May</text>
+      </g>
+      <circle fill="#990099" stroke-width="0" stroke="none" r="7" cy="139" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="155" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="166.9" x="563" text-anchor="start">Apr</text>
+      </g>
+      <circle fill="#0099c6" stroke-width="0" stroke="none" r="7" cy="162" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="178" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="189.9" x="563" text-anchor="start">Mar</text>
+      </g>
+      <circle fill="#dd4477" stroke-width="0" stroke="none" r="7" cy="185" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="201" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="212.9" x="563" text-anchor="start">Feb</text>
+      </g>
+      <circle fill="#66aa00" stroke-width="0" stroke="none" r="7" cy="208" cx="551"/>
+    </g>
+  </g>
+  <g>
+    <path fill="#ff9900" stroke-width="1" stroke="#ffffff" d="M336,226L336,87A139,139,0,0,1,446.16848693376033,141.24208304396646L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="133.11007590550722" x="364.1474270113732" text-anchor="start">14.6%</text>
+  </g>
+  <g>
+    <path fill="#109618" stroke-width="1" stroke="#ffffff" d="M336,226L446.16848693376033,141.24208304396646A139,139,0,0,1,461.6261744555934,285.4900352298838L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="219.7894803510956" x="419.681078092191" text-anchor="start">17.5%</text>
+  </g>
+  <g>
+    <path fill="#990099" stroke-width="1" stroke="#ffffff" d="M336,226L461.6261744555934,285.4900352298838A139,139,0,0,1,365.45241505826596,361.84386348759233L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="314.3636802695393" x="382.2631007562942" text-anchor="start">14.6%</text>
+  </g>
+  <g>
+    <path fill="#66aa00" stroke-width="1" stroke="#ffffff" d="M336,226L205.46347081375578,178.23793819349072A139,139,0,0,1,336,87L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="143.04297895607485" x="254.5927180242926" text-anchor="start">19.4%</text>
+  </g>
+  <g>
+    <path fill="#dd4477" stroke-width="1" stroke="#ffffff" d="M336,226L267.11283252924426,346.7292763080109A139,139,0,0,1,205.46347081375578,178.23793819349072L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="266.5710874724974" x="218.50881610131563" text-anchor="start">22.3%</text>
+  </g>
+  <g>
+    <path fill="#0099c6" stroke-width="1" stroke="#ffffff" d="M336,226L365.45241505826596,361.84386348759233A139,139,0,0,1,267.11283252924426,346.7292763080109L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="343.36472383977923" x="299.21440828414916" text-anchor="start">11.7%</text>
+  </g>
+  <g/>
+</svg>

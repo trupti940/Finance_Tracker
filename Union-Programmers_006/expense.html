@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Finance Tracker - Income</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap');
+* {
+    font-family: "Inter Tight", sans-serif;
+    box-sizing: border-box;
+    transition:0.4s ease-in-out;
+}
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-image: url("https://img.freepik.com/free-vector/gradient-glassmorphism-background_52683-86366.jpg");
+            background-repeat: no-repeat;
+            background-size: cover; 
+            background-position: center; 
+        }
+
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: transparent;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            box-shadow: 3px 3px rgb(82, 58, 239), -1em 0 .4em rgb(113, 30, 202);
+        }
+
+        .container img {
+            width: 100px;
+            height: 60px;
+            border-radius: 5px;
+        }
+
+        header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            padding: 10px 0;
+            border-bottom: 1px solid #ddd;
+            background-color: rgb(113, 30, 202);
+        }
+
+        header h1 {
+            margin: 0;
+        }
+
+        nav ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+            display: flex;
+        }
+
+        nav ul li {
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: black;
+            font-size: 20px;
+            font-weight: 500;
+        }
+
+        nav ul li a.active {
+            font-weight: bold;
+            color: black;
+        }
+
+        main {
+            padding: 20px 0;
+        }
+
+        .upper-part {
+            margin-left: 135px;
+        }
+
+        .upper-part h2{
+            color: black;
+            font-size: 30px;
+        }
+
+        #expenses-section {
+            margin-top: 20px;
+            text-align: center;
+        }
+
+        #expenses-section h2 {
+            margin-bottom: 20px;
+        }
+
+        #expenses-form {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 10px;
+        }
+
+        #expenses-form label {
+            grid-column: 1 / span 2;
+        }
+
+        #expenses-form input{
+            padding: 10px;
+            font-size: 1em;
+            width: 300px;
+        }
+
+        .expenses-section button {
+            grid-column: 1 / span 2;
+            background-color: black;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+            margin-top: 30px;
+            margin-bottom: 30px;
+            padding: 10px;
+            font-size: 1em;
+            width: 550px;
+            margin-left: 27px;
+        }
+
+        .expenses-section button:hover {
+            background-color: #0056b3;
+        }
+
+        .history{
+            display: flex;
+            justify-content: space-between;
+            margin-bottom:5px;
+        }
+
+        .history a{
+            margin-top: 17px;
+        }
+
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid #ddd;
+        }
+
+        table th,
+        table td {
+            padding: 10px;
+            text-align: left;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            border-top: 1px solid #ddd;
+            margin-top: 20px;
+        }
+
+        footer p {
+            margin: 0;
+        }
+    </style>>
+</head>
+
+<body>
+    <div class="container">
+        <header>
+            <img src="./images/1721151218625.png" alt="FinEase">
+            <nav>
+                <ul>
+                    <li><a href="./index.html">Home</a></li>
+                    <li><a href="./overview.html">Overview</a></li>
+                    
+                    <li><a href="./saving.html">Savings</a></li>
+                    <li><a href="./expenses.html" class="active">Expenses</a></li>
+                    <li><a href="./income.html">Income</a></li>
+                </ul>
+            </nav>
+        </header>
+
+        <main>
+            <section class="expenses-section">
+                <div class="upper-part">
+                    <h2>Expenses</h2>
+                    <form id="expenses-form">
+                        <label for="expenses-date">Date:</label>
+                        <input type="date" id="expenses-date" name="date" required>
+
+                        <label for="expenses-amount">Amount:</label>
+                        <input type="number" id="expenses-amount" name="amount" required>
+
+                        <label for="expenses-description">Description:</label>
+                        <input type="text" id="expenses-description" name="description" required>
+                    </form>
+                </div>
+                <button type="submit">Add Expenses</button>
+                <div class="history">
+                    <h3>Expenses History</h3>
+                    <a href="">View all</a>
+                </div>
+                <table id="expenses-table">
+                    <thead>
+                        <tr>
+                            <th>Date</th>
+                            <th>Amount</th>
+                            <th>Description</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>2024-01-15</td>
+                            <td>$2000</td>
+                            <td>Salary</td>
+                        </tr>
+                        <tr>
+                            <td>2024-02-15</td>
+                            <td>$2100</td>
+                            <td>Salary</td>
+                        </tr>
+                        <tr>
+                            <td>2024-03-01</td>
+                            <td>$500</td>
+                            <td>Freelance Project</td>
+                        </tr>
+                        <tr>
+                            <td>2024-04-10</td>
+                            <td>$1500</td>
+                            <td>Consulting</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </section>
+        </main>
+
+        
+    </div>
+
+</body>
+
+</html>

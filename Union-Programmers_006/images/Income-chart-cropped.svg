@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="A chart." style="max-height: 500px" viewBox="155.96988 36.062400000000004 435.45348 329.06940000000003" width="435.45348" height="329.06940000000003">
+  <defs id="_ABSTRACT_RENDERER_ID_24"/>
+  <rect fill="#ffffff" stroke-width="0" stroke="none" height="450.78000000000003" width="901.5600000000001" y="0" x="0"/>
+  <g>
+    <text style="white-space: pre;" fill="#000000" stroke-width="0" stroke="none" font-weight="bold" font-size="25" font-family="Arial" y="59.25" x="150" text-anchor="start"> Income</text>
+  </g>
+  <g>
+    <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="129" width="207" y="86" x="544"/>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="86" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="97.9" x="563" text-anchor="start">Jul</text>
+      </g>
+      <circle fill="#ff9900" stroke-width="0" stroke="none" r="7" cy="93" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="109" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="120.9" x="563" text-anchor="start">Jun</text>
+      </g>
+      <circle fill="#109618" stroke-width="0" stroke="none" r="7" cy="116" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="132" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="143.9" x="563" text-anchor="start">May</text>
+      </g>
+      <circle fill="#990099" stroke-width="0" stroke="none" r="7" cy="139" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="155" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="166.9" x="563" text-anchor="start">Apr</text>
+      </g>
+      <circle fill="#0099c6" stroke-width="0" stroke="none" r="7" cy="162" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="178" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="189.9" x="563" text-anchor="start">Mar</text>
+      </g>
+      <circle fill="#dd4477" stroke-width="0" stroke="none" r="7" cy="185" cx="551"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="207" y="201" x="544"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="212.9" x="563" text-anchor="start">Feb</text>
+      </g>
+      <circle fill="#66aa00" stroke-width="0" stroke="none" r="7" cy="208" cx="551"/>
+    </g>
+  </g>
+  <g>
+    <path fill="#ff9900" stroke-width="1" stroke="#ffffff" d="M336,226L336,87A139,139,0,0,1,463.716734278598,171.1416753335468L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="141.13959752756227" x="375.13548201263364" text-anchor="start">18.5%</text>
+  </g>
+  <g>
+    <path fill="#109618" stroke-width="1" stroke="#ffffff" d="M336,226L463.716734278598,171.1416753335468A139,139,0,0,1,462.5478348587956,283.503438962822L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="231.9895889863453" x="420.73795953931585" text-anchor="start">13.2%</text>
+  </g>
+  <g>
+    <path fill="#990099" stroke-width="1" stroke="#ffffff" d="M336,226L462.5478348587956,283.503438962822A139,139,0,0,1,367.53426249032003,361.3757374465291L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="313.20805634659155" x="383.4589679312192" text-anchor="start">14.6%</text>
+  </g>
+  <g>
+    <path fill="#66aa00" stroke-width="1" stroke="#ffffff" d="M336,226L213.2853731910763,160.71508315738936A139,139,0,0,1,336,87L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="138.3493805513531" x="260.4045360660398" text-anchor="start">17.2%</text>
+  </g>
+  <g>
+    <path fill="#dd4477" stroke-width="1" stroke="#ffffff" d="M336,226L235.18955288641058,321.69876568043185A139,139,0,0,1,213.2853731910763,160.71508315738936L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="244.94402475117136" x="212.7841364828697" text-anchor="start">19.9%</text>
+  </g>
+  <g>
+    <path fill="#0099c6" stroke-width="1" stroke="#ffffff" d="M336,226L367.53426249032003,361.3757374465291A139,139,0,0,1,235.18955288641058,321.69876568043185L336,226A0,0,0,0,0,336,226"/>
+    <text style="white-space: pre;" fill="#ffffff" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="337.578676780328" x="284.01771027096146" text-anchor="start">16.6%</text>
+  </g>
+  <g/>
+</svg>

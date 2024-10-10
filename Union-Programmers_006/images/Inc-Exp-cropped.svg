@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" aria-label="A chart." style="max-height: 500px" viewBox="82.04196 37.865520000000004 781.6525200000001 350.70684000000006" width="781.6525200000001" height="350.70684000000006">
+  <defs id="_ABSTRACT_RENDERER_ID_14"/>
+  <rect fill="#ffffff" stroke-width="0" stroke="none" height="450.78000000000003" width="901.5600000000001" y="0" x="0"/>
+  <g>
+    <text style="white-space: pre;" fill="#000000" stroke-width="0" stroke="none" font-weight="bold" font-size="25" font-family="Arial" y="59.25" x="150" text-anchor="start">Inc - Exp</text>
+  </g>
+  <g>
+    <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="37" width="122.56000000000006" y="86" x="765"/>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="122.56000000000006" y="86" x="765"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="97.9" x="798" text-anchor="start">Income</text>
+      </g>
+      <rect fill="#047b4b" stroke-width="0" stroke="none" height="14" width="28" y="86" x="765"/>
+    </g>
+    <g>
+      <rect fill="#ffffff" fill-opacity="0" stroke-width="0" stroke="none" height="14" width="122.56000000000006" y="109" x="765"/>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="120.9" x="798" text-anchor="start">Expenses</text>
+      </g>
+      <rect fill="#ee6411" stroke-width="0" stroke="none" height="14" width="28" y="109" x="765"/>
+    </g>
+  </g>
+  <g>
+    <rect fill="#ffffff" stroke-width="0" stroke="none" height="279" width="601" y="86" x="150"/>
+    <g clip-path="url(https://www.statskingdom.com/chart-maker.html#_ABSTRACT_RENDERER_ID_15)">
+      <g>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="364" x="150"/>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="318" x="150"/>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="271" x="150"/>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="225" x="150"/>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="179" x="150"/>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="132" x="150"/>
+        <rect fill="#cccccc" stroke-width="0" stroke="none" height="1" width="601" y="86" x="150"/>
+        <rect fill="#ebebeb" stroke-width="0" stroke="none" height="1" width="601" y="341" x="150"/>
+        <rect fill="#ebebeb" stroke-width="0" stroke="none" height="1" width="601" y="295" x="150"/>
+        <rect fill="#ebebeb" stroke-width="0" stroke="none" height="1" width="601" y="248" x="150"/>
+        <rect fill="#ebebeb" stroke-width="0" stroke="none" height="1" width="601" y="202" x="150"/>
+        <rect fill="#ebebeb" stroke-width="0" stroke="none" height="1" width="601" y="156" x="150"/>
+        <rect fill="#ebebeb" stroke-width="0" stroke="none" height="1" width="601" y="109" x="150"/>
+      </g>
+      <g>
+        <rect fill="#047b4b" stroke-width="0" stroke="none" height="240" width="19" y="124" x="694"/>
+        <rect fill="#047b4b" stroke-width="0" stroke="none" height="277" width="19" y="87" x="619"/>
+        <rect fill="#047b4b" stroke-width="0" stroke="none" height="231" width="19" y="133" x="544"/>
+        <rect fill="#047b4b" stroke-width="0" stroke="none" height="203" width="19" y="161" x="469"/>
+        <rect fill="#047b4b" stroke-width="0" stroke="none" height="184" width="19" y="180" x="394"/>
+        <rect fill="#047b4b" stroke-width="0" stroke="none" height="258" width="19" y="106" x="319"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="184" width="18" y="180" x="714"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="212" width="18" y="152" x="639"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="110" width="18" y="254" x="564"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="138" width="18" y="226" x="489"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="166" width="18" y="198" x="414"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="138" width="18" y="226" x="339"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="0.5" width="18" y="364" x="264"/>
+        <rect fill="#ee6411" stroke-width="0" stroke="none" height="0.5" width="18" y="364" x="189"/>
+      </g>
+      <g>
+        <rect fill="#333333" stroke-width="0" stroke="none" height="1" width="601" y="364" x="150"/>
+      </g>
+    </g>
+    <g/>
+    <g>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="385.9" x="338" text-anchor="middle">Jul</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="385.9" x="413" text-anchor="middle">Jun</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="385.9" x="488" text-anchor="middle">May</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="385.9" x="563" text-anchor="middle">Apr</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="385.9" x="638" text-anchor="middle">Mar</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#222222" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="385.9" x="713" text-anchor="middle">Feb</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="369.4" x="136" text-anchor="end">0</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="323.06669999999997" x="136" text-anchor="end">50,000</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="276.7333" x="136" text-anchor="end">100,000</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="230.4" x="136" text-anchor="end">150,000</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="184.0667" x="136" text-anchor="end">200,000</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="137.7333" x="136" text-anchor="end">250,000</text>
+      </g>
+      <g>
+        <text style="white-space: pre;" fill="#444444" stroke-width="0" stroke="none" font-size="14" font-family="Arial" y="91.4" x="136" text-anchor="end">300,000</text>
+      </g>
+    </g>
+  </g>
+  <g/>
+</svg>
